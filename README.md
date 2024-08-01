@@ -28,3 +28,7 @@ Laguage used - C#
 그래프1, 인접행렬 그래프 (AdjacencyMatrixGraph) 직접 행렬형태로 만들기
 
 ![graph01](https://github.com/user-attachments/assets/df1fd01c-2775-45db-8932-5bd1ef821316)
+
+그래프2, 인접리스트 그래프 (AdjacencyListGraph) ListGraph Class를 이용하여 만들기
+
+![graph02](https://github.com/user-attachments/assets/e267c6b3-96e6-4c19-80aa-36221c7b0fb5)
